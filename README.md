@@ -24,5 +24,11 @@ First, install all the required packages with 'pip' like so: `pip install -r req
 
 ## How to run the analysis: run in the cloud
 
-Click on the link below to perform the analyses in the Binder cloud:
+Click on the link below to perform the analyses in the Binder cloud.
+
+To view all files: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victoris93/OHBM-Reproducible-Workflows/HEAD)
+
+To view the results of the analyses:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victoris93/OHBM-Reproducible-Workflows/HEAD?filepath=code%2Fanalysis_notebook.ipynb)
+
