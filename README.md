@@ -1,15 +1,9 @@
 A hands-on session on reproductible workflows
 =======================================
 
-# How to get this content
+## How to get this content
 
-# Create a virtusal environment
-
-# Satisfy dependencies
-
-First, install all the required packefes with 'pip' like so: [pip install -r requirements.txt].
-
-# How to run the analysis
+## Create a virtual environment
 
 With `virtualenv`:
 ```
@@ -24,3 +18,8 @@ With `conda`:
 conda create -n mypythonenv python=3.6
 conda activate mypythonenv
 ```
+## Satisfy dependencies
+
+First, install all the required packefes with 'pip' like so: `pip install -r requirements.txt`
+
+## How to run the analysis
