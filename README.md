@@ -20,6 +20,9 @@ conda activate mypythonenv
 ```
 ## Satisfy dependencies
 
-First, install all the required packefes with 'pip' like so: `pip install -r requirements.txt`
+First, install all the required packages with 'pip' like so: `pip install -r requirements.txt`
 
-## How to run the analysis
+## How to run the analysis: run in the cloud
+
+Click on the link below to perform the analyses in the Binder cloud:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victoris93/OHBM-Reproducible-Workflows/HEAD)
